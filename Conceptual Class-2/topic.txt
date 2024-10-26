@@ -1,0 +1,6 @@
+
+লাইভ ক্লাস
+
+২২ ডিসে, রাত ১০:০০
+
+মডিউল ১২ এর কনসেপচুয়াল ক্লাস | Complex CRUD Project with Eloquent ORM
